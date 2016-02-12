@@ -7,6 +7,7 @@ Package.describe({
 });
 
 var files = [
+  'src/base/main.scss',
   'src/base/_variables.scss',
   'src/components/_variables.scss',
   'src/base/_mixins.scss',
