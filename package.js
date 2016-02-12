@@ -1,13 +1,12 @@
 Package.describe({
   name: 'bquarks:penguin-lite',
-  version: '0.0.7',
+  version: '0.0.8',
   summary: 'Lite version for penguin ui framework',
   git: 'https://github.com/bquarks/penguin-lite.git',
   documentation: 'README.md'
 });
 
 var files = [
-  'src/main.scss',
   'src/base/_variables.scss',
   'src/components/_variables.scss',
   'src/base/_mixins.scss',
