@@ -1,6 +1,6 @@
 Package.describe({
   name: 'bquarks:penguin-lite',
-  version: '0.0.4',
+  version: '0.0.7',
   summary: 'Lite version for penguin ui framework',
   git: 'https://github.com/bquarks/penguin-lite.git',
   documentation: 'README.md'
